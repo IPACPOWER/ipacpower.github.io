@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ipacpower.github.io/WaterReport.ipa?dl=1</string>
+					<string>https://ipacpower.github.io/WaterReport.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
