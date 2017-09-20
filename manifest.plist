@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/u/28516904/Tailgate/Tailgate.ipa</string>
+					<string>https://ipacpower.github.io/WaterReport.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://ipacpower.github.io/Icon-60.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://ipacpower.github.io/iTunesArtwork@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.ipachem.tailgate</string>
+				<string>net.ipachem.WaterReport</string>
 				<key>bundle-version</key>
-				<string>0.98 (0.98)</string>
+				<string>1.51</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Tailgate</string>
+				<string>WaterReport</string>
 			</dict>
 		</dict>
 	</array>
