@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.ipachem.tailgate</string>
+				<string>com.dubois.tailgate</string>
 				<key>bundle-version</key>
-				<string>0.98 (0.98)</string>
+				<string>1.03</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
