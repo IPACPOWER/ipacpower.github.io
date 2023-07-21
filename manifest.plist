@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://ipacpower.github.io/1.png</string>
+					<string>https://ipacpower.github.io/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://ipacpower.github.io/2.png</string>
+					<string>https://ipacpower.github.io/iTunesArtwork@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
